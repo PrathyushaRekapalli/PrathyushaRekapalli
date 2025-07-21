@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Prathyusha Rekapalli
 
-🎯 **Data Analyst | Data Scientist | Lifelong Learner | Advocate for Education**
-
 I'm a data-driven problem solver who loves turning messy datasets into meaningful, actionable insights. With hands-on experience in building machine learning models, automating workflows, and visualizing complex data, I enjoy making the technical — simple, insightful, and impactful.
 
 But beyond models and dashboards, I’m deeply passionate about **education and helping students succeed**. Whether it's simplifying tough concepts, building AI tools that support learning, or guiding others through their data journey — I believe in the power of knowledge sharing.
